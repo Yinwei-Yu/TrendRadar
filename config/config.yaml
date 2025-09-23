@@ -79,3 +79,7 @@ platforms:
     name: "知乎"
   - id: "github"
     name: "github"
+  - id : "hacknews"
+    name: "hacknews"
+  - id : "nowcoder"
+    name: "牛客"
