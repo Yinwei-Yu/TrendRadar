@@ -2,8 +2,6 @@ ai
 !gai
 人工智能
 
-github
-
 谷歌
 google
 gemini
@@ -50,3 +48,11 @@ ios
 米哈游
 steam
 游戏
+
+rust
+go
+distributed
+agent
+vide coding
+
+桦加沙
