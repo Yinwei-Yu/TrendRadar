@@ -16,7 +16,6 @@ sora
 claude
 Anthropic
 DeepSeek
-梁文锋
 
 华为
 鸿蒙
@@ -27,7 +26,6 @@ HarmonyOS
 
 字节
 bytedance
-张一鸣
 
 阿里巴巴
 
@@ -48,11 +46,7 @@ ipad
 mac
 ios
 
-美国
-日本
-
-芯片
-光刻机
-
 蓝色星原
 米哈游
+steam
+游戏
